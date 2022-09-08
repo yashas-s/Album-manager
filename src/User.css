@@ -1,0 +1,72 @@
+
+.list {
+  display:flex;
+  width: 850px;
+  justify-content: space-between;
+  margin: 10px; 
+  margin-left: 30%;
+}
+
+.album-top h1 { 
+  color: rgb(20, 62, 90);   
+  margin-left: 42%;
+  display:flex;
+  width: 300px;
+  text-align: center;
+}
+
+.album-top{
+  background-color: #fff;
+background-image:
+linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+linear-gradient(#eee .1em, transparent .1em);
+background-size: 100% 1.2em;
+}
+
+.album-title{
+  text-align: center;
+  margin-left: 40%;
+  margin-right: 46%;
+  padding-top: 2.9%;
+  width: 20%;
+}
+.album-title h3{
+  color: rgb(84, 22, 114);
+}
+
+.album-title button{
+  border-radius: 12px;
+  padding: 10px 24px;
+}
+
+.album-title input{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border:2px solid rgb(26, 7, 68);
+}
+
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.button:hover {
+  background-color: #555555;
+  color: white;
+}
+
+.button{
+  font-size: 16px;
+  border-radius: 12px;
+  padding: 10px 24px;
+}
+
+.list span{
+  padding-left: 5%;
+}
+
+
