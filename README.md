@@ -3,6 +3,7 @@ This is a Album-Manager project built using react.
 
 ## Scripts used
 Reactjs
+Javascript
 HTML
 CSS
 Material Grid
